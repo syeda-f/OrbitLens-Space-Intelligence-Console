@@ -8,7 +8,7 @@ OrbitLens is a web app that turns dry technical satellite log PDFs into interact
 + **Dashboard** shows KPI cards for key metrics extracted from the log (voltage, temperature, pressure, cycle count, system status), plus four charts: a thermal trajectory line chart, a threshold analysis bar chart, a resource load doughnut chart, and a subsystem efficiency radar chart. Each chart includes an auto-generated insight caption.
 + **PDF View** renders the raw PDF so you can read through the original document page by page.
   
-**AI Chat (right panel)**: Can ask questions about the loaded documents in plain language. You can switch between two agent modes:
+**Chat (right panel)**: Can ask questions about the loaded documents in plain language. You can switch between two agent modes:
 + Engineer: technical, detailed answers, treats you like a propulsion engineer
 + Specialist: cleaner, more concise answers for general analysis
 
